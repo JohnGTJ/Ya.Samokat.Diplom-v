@@ -3,13 +3,13 @@ headers = {
 }
 
 order_body = {
-    "firstName": "Константин",
-    "lastName": "Дехнич",
-    "address": "Центральный проезд Хорошёвского Серебряного Бора 2",
-    "metroStation": 9,
-    "phone": "+34916123451",
+    "firstName": "Петр",
+    "lastName": "Первый",
+    "address": "Комсомол 28",
+    "metroStation": 8,
+    "phone": "+79000005555",
     "rentTime": 5,
     "deliveryDate": "2024-02-28",
-    "comment": "Инжиниринг это весело",
+    "comment": "Привет мир",
     "color": ["BLACK"]
 }
